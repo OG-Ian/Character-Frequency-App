@@ -19,6 +19,7 @@ This is a simple C# console application that calculates the frequency of charact
 
 ## Example:
 Input: hello world
+
 Output:
 
 h: 1
